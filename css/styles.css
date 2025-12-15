@@ -6,9 +6,10 @@
     color: #333;
 }
 
-html, body {
+body {
     height: auto;
     min-height: 100vh;
+    margin: 1rem;
 }
 
 html {
